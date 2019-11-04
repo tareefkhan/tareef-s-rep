@@ -1,0 +1,23 @@
+###Question1
+print("""Twinkle, Twinkle, little star
+          \tHow I wonder what you are!
+          \t\tUp above the world so high,
+          \t\tLike a diamond in the sky.
+Twinkle, twinkle, little star,
+          \tHow I wonder what you are!""")
+         
+#Question3
+import datetime
+datetime.datetime.now()
+
+#Question4
+pi=3.14
+rad=float(input("Enter radius of the circle:"))
+area=pi*rad**2
+print("Area of the circle is: %.2f"%area)
+
+#Question6
+num1=int(input())
+num2=int(input())
+ans=num1+num2
+print(ans)
