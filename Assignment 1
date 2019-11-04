@@ -20,6 +20,12 @@ rad=float(input("Enter radius of the circle:"))
 area=pi*rad**2
 print("Area of the circle is: %.2f"%area)
 
+##Question5
+fName=input()
+lName=input()
+txt=(fName+" "+lName)[::-1]
+print(txt)
+
 #Question6
 num1=int(input())
 num2=int(input())
