@@ -1,0 +1,31 @@
+Question#1
+Object oriented programming language is a high-level computer programming language that implements objects and their associated procedures within the programming context to create software programs.
+Object-oriented programming language uses an object-oriented programming technique that binds related data and functions into an object and encourages reuse of these objects within the same and other programs.
+
+Question#2
+1.Through inheritance, we can eliminate repetitive code and extend the use of existing classes which is not possible in procedure oriented approach.
+2.We can build programs from the standard working modules that communicate with one another, rather than having to start writing the code from scratch which happens procedure oriented approach. This leads to saving of development time and higher productivity.
+3.The principle of data hiding helps the programmer to build secure programs that cannot be invaded by code in other parts of the program.
+
+Question#3
+Functions:
+*Functions have independent existence. You can define them outside of the class
+*Functions are the properties of structured languages like C, C++, Pascal and object based language like JavaScript.
+*Functions don't have any reference variables.
+Methods:
+*Methods do not have independent existence. They are always defined within a class, struct, or enum.
+*Methods are the properties of Object-oriented language like C#, Java, Swift etc.
+*Methods are called using reference variables.
+
+Question#4
+Class:
+A class is a group of objects which have common properties. It is a template or blueprint from which objects are created. It is a logical easdntity. It can't be physical.
+Object:
+An entity that has state and behavior is known as an object e.g., chair, bike, marker, pen, table, car, etc. It can be physical or logical
+Attribute:
+An attribute is a public constant or a public variable that can be accessed directly.
+Behaviour:
+The behaviour of an object implies the actions that the object is able to perform.
+
+Question#5
+
